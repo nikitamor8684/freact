@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/freact/static/css/main.9bdb6fbd.css",
+    "main.js": "/freact/static/js/main.1e36ff6b.js",
+    "static/js/787.11011192.chunk.js": "/freact/static/js/787.11011192.chunk.js",
+    "index.html": "/freact/index.html",
+    "main.9bdb6fbd.css.map": "/freact/static/css/main.9bdb6fbd.css.map",
+    "main.1e36ff6b.js.map": "/freact/static/js/main.1e36ff6b.js.map",
+    "787.11011192.chunk.js.map": "/freact/static/js/787.11011192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bdb6fbd.css",
+    "static/js/main.1e36ff6b.js"
+  ]
+}

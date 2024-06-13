@@ -1,0 +1,112 @@
+.check{
+  float:left;
+  margin: 20px 50px;  
+  transition:all 0.6s;
+  position:relative;
+}
+.card-box{
+  width:50%;
+  height:100px;
+  background-color: whitesmoke;
+  border:1px solid white;
+  border-radius:20%;
+  position:relative;
+  left:60px;
+}
+.card{
+  overflow: hidden;
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  align-items: center;
+  
+
+}
+.check:hover{
+  transform: scale(1.1);
+}
+.company{
+  float:left;
+  margin: 20px 40px;  
+}
+.email{
+  display:inline-block;
+  width:500px;
+  height:40px;
+  border:1px solid black;
+  border-radius:20px;
+}
+.follow{
+  margin-left:250px;
+}
+.product{
+  width:50px;
+  height:50px;
+  display:block;
+}
+.pro{
+  width:100%;
+  display:flex;
+  background-color: white;
+}
+.box{
+  margin:6px;
+  float:left;
+  height:600px;
+  width:10%;
+}
+.product1{
+  height:600px;
+  width:600px;
+  float:left;
+  margin:6px;
+}
+.product2{
+  float:left;
+  height:200px;
+  width:400px;
+}
+check:hover img{
+  transform:scale(0.1);
+}
+.check{
+  position:absolute;
+}
+.check1{
+
+  position:absolute;
+}
+.cart{
+  position: absolute;
+  bottom: -40px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: all 0.3s; 
+  display:inline-block;
+
+}
+
+.cart i{
+  display: flex;
+  display:inline-block;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  margin:0px 3px ;
+  /* border-radius: 7px; */
+  
+} 
+
+
+.cart i:hover{
+  background-color: rgb(0, 99, 197);
+}
+#item:hover .cart{
+
+  bottom: 10px;
+
+}
